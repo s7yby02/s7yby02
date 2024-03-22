@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ayoub ELHARRAN</h1>
-<h3 align="center">A Software Engineering Student</h3>
-
+<!-- <h1 align="center">Hi 👋, I'm Ayoub ELHARRAN</h1>
+<h3 align="center">A Software Engineering Student</h3> -->
+![header](github-header-image.png)
 - 📫 How to reach me **elharranayoub2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
