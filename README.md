@@ -7,7 +7,7 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
 🎓  I am currently pursuing a degree in Data engineering at National Institute of Posts and Telecommunications - INPT in Rabat.<br>
 🌱  I am passionate about building softwares.<br>
-💡  I am currently learning about Data Streaming.<br>
+💡  I am currently learning about Big Data.<br>
 
 
 <h3 align="left"> 📫 Connect With Me</h3>
