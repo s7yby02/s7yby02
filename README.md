@@ -1,6 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Ayoub ELHARRAN</h1>
 <h3 align="center">A Software Engineering Student</h3> -->
 ![header](github-header-image.png)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s7yby02&label=Profile%20views&color=0e75b6&style=flat" alt="s7yby02" /> </p>
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
@@ -15,6 +16,7 @@
 <a href="https://fb.com/profile.php?id=100009460022352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub elharran" height="30" width="40" /></a>
 </p>
 
+<img alt="Molecules" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="330px" align="right"/>
 <h3 align="left">🛠 Languages and Tools:</h3>
 <ul>
 <li>
