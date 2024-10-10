@@ -13,7 +13,6 @@
 <h3 align="left"> 📫 Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayoub-elharran-481796246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub elharran" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009460022352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub elharran" height="30" width="40" /></a>
 </p>
 
 <img alt="Gif" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="330px" align="right"/>
