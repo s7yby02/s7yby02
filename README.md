@@ -5,7 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s7yby02&label=Profile%20views&color=0e75b6&style=flat" alt="s7yby02" /> </p>
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
-🎓  I am currently pursuing a degree in Data engineering at National Institute of Posts and Telecommunications - INPT in Rabat.<br>
+<!-- 🎓  I am currently pursuing a Master's degree in Data engineering at The University of Rouen.<br>
+🎓  I am currently pursuing a Master's degree in Data engineering at National Institute of Posts and Telecommunications - INPT in Rabat.<br> -->
 🌱  I am passionate about building softwares.<br>
 💡  I am currently learning about Big Data.<br>
 
