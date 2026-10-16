@@ -24,72 +24,73 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayoub-elharran-481796246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub elharran" height="30" width="40" /></a>
 </p>
-
-<img alt="Gif" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="330px" align="right"/>
+<!-- 
+<img alt="Gif" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="330px" align="right"/> -->
 <h3 align="left">🛠 Languages and Tools:</h3>
-<ul>
-<li>
-<h4>Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="assets/icons/sql.svg" alt="sql" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
-</li>
-<li>
-<h4>Data Engineering</h4>
-<p align="left">
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache spark" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka/231F20/ffffff" alt="apache kafka" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache airflow" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/></a>
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
-</p>
-</li>
-<li>
-<h4>Machine Learning</h4>
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mlflow" alt="mlflow" width="40" height="40"/></a>
-</p>
-</li>
-<li>
-<h4>Databases</h4>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-</p>
-</li>
-<li>
-<h4>Backend</h4>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/000000/ffffff" alt="flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-</p>
-</li>
-<li>
-<h4>DevOps & Tools</h4>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
-</li>
-</ul>
-
-<h3 align="left">⚙️  GitHub Analytics</h3>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=s7yby02&theme=transparent&hide_border=true&ring=0D9488&fire=0D9488&currStreakNum=0D9488&sideNums=0D9488&currStreakLabel=0D9488&sideLabels=0D9488&dates=6E7781" alt="GitHub contribution streak for s7yby02" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <p align="left">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+        <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="assets/icons/sql.svg" alt="sql" width="40" height="40"/></a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Data Engineering</h4>
+      <p align="left">
+        <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache spark" width="40" height="40"/></a>
+        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka/231F20/ffffff" alt="apache kafka" width="40" height="40"/></a>
+        <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="apache airflow" width="40" height="40"/></a>
+        <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/></a>
+        <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/></a>
+        <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/></a>
+        <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Machine Learning</h4>
+      <p align="left">
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+        <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mlflow" alt="mlflow" width="40" height="40"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Databases</h4>
+      <p align="left">
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend</h4>
+      <p align="left">
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" alt="django" width="40" height="40"/></a>
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/000000/ffffff" alt="flask" width="40" height="40"/></a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>DevOps & Tools</h4>
+      <p align="left">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">🐍 Contribution Snake</h3>
 <picture>
@@ -97,3 +98,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s7yby02/s7yby02/output/github-snake.svg" />
   <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/s7yby02/s7yby02/output/github-snake.svg" />
 </picture>
+
+<h3 align="left">⚙️  GitHub Analytics</h3>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=s7yby02&theme=transparent&hide_border=true&ring=0D9488&fire=0D9488&currStreakNum=0D9488&sideNums=0D9488&currStreakLabel=0D9488&sideLabels=0D9488&dates=6E7781" alt="GitHub contribution streak for s7yby02" />
+</p>
