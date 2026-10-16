@@ -10,7 +10,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s7yby02&label=Profile%20views&color=0e75b6&style=flat" alt="s7yby02" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=s7yby02&label=Profile%20views&color=0e75b6&style=flat" alt="s7yby02" /> </p> -->
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
 <!-- 🎓  I am currently pursuing a Master's degree in Data engineering at The University of Rouen.<br>
@@ -90,3 +90,10 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=s7yby02&theme=transparent&hide_border=true&ring=0D9488&fire=0D9488&currStreakNum=0D9488&sideNums=0D9488&currStreakLabel=0D9488&sideLabels=0D9488&dates=6E7781" alt="GitHub contribution streak for s7yby02" />
 </p>
+
+<h3 align="left">🐍 Contribution Snake</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s7yby02/s7yby02/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s7yby02/s7yby02/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/s7yby02/s7yby02/output/github-snake.svg" />
+</picture>
