@@ -24,14 +24,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayoub-elharran-481796246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub elharran" height="30" width="40" /></a>
 </p>
-<!-- 
-<h3 align="left">🚀 Featured Projects</h3>
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Credit Scoring MLOps**](https://github.com/s7yby02/Credit-scoring) | End-to-end credit scoring on open-banking data: Airflow loads MongoDB into BigQuery, dbt builds tested feature marts, XGBoost models are tracked and promoted in MLflow, served by a real-time scoring API and monitored for drift (PSI). | Airflow · BigQuery · dbt · MLflow · XGBoost · FastAPI · Docker |
-| [**News Streaming Analysis**](https://github.com/s7yby02/News-Streaming-Analysis) | Real-time analysis of YouTube news live streams: captions and chat are scraped, streamed through Kafka into Spark Structured Streaming, and chat emotions are scored with the NRC lexicon on a live Flask dashboard. | Kafka · Spark · Selenium · MongoDB · Flask |
-| [**Wikimedia → OpenSearch**](https://github.com/s7yby02/Kafka_to_OpenSearch) | Streams Wikimedia's live recent-changes feed through Kafka and indexes it into OpenSearch, with dashboards on top. | Kafka · OpenSearch · Docker · Python | -->
 
 <img alt="Gif" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="330px" align="right"/>
 <h3 align="left">🛠 Languages and Tools:</h3>
