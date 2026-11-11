@@ -1,6 +1,6 @@
 <!-- ===== Header option 1: animated pipeline banner (assets/header.svg, adapts to light/dark) ===== -->
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Ayoub ELHARRAN, Data Engineer: a data pipeline from PostgreSQL and MongoDB through Kafka, Spark, Databricks, dbt, Snowflake and BigQuery to MLflow" />
+  <img src="assets/header.svg" width="100%" alt="Ayoub ELHARRAN, Data Engineer: a data pipeline from PostgreSQL and MongoDB through Kafka, Spark, Databricks, dbt, Snowflake and BigQuery to MLflow, Power BI and Tableau" />
 </p>
 
 <!-- ===== Header option 2: typing animation ===== -->
@@ -62,6 +62,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <h4>BI & Dashboards</h4>
+      <p align="left">
+        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+        <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" alt="power bi" width="40" height="40"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>Databases</h4>
       <p align="left">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
@@ -70,19 +79,12 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h4>Backend</h4>
+      <h4>Backend & DevOps</h4>
       <p align="left">
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" alt="django" width="40" height="40"/></a>
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flask/000000/ffffff" alt="flask" width="40" height="40"/></a>
         <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>DevOps & Tools</h4>
-      <p align="left">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
